@@ -1,0 +1,1 @@
+To make sure the default font used works, install raster.tff located in this same directory
