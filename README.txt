@@ -1,1 +1,1 @@
-To make sure the default font used works, install raster.tff located in this same directory
+Use Raster Font 8x8 for better quality.
